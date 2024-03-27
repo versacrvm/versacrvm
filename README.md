@@ -7,7 +7,7 @@ Currently I'm a student at SPICED, getting ready to dance through the world wide
 ![portrait](portrait.jpeg)
 
 
-##My personal interests include:
+## My personal interests include:
 - reading political theory
 - going for walks without my phone
 - travelling to remote places
