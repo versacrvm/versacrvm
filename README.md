@@ -1,10 +1,12 @@
-# Welcome!
+# 👋 Welcome! 👋
+
+![portrait](portrait.jpg)
+## Fabian Riess (he/him)
+
 
 I'm a Berlin based artist and soon to be Web Developer.
 My work as a dancer and choreographer has stretched all over Germany and Europe over the past 5 years.
 Currently I'm a student at SPICED, getting ready to dance through the world wide web.
-
-![portrait](portrait.jpeg)
 
 
 ## My personal interests include:
