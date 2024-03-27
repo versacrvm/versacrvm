@@ -1,5 +1,11 @@
 # Welcome!
 
+I'm a Berlin based artist and soon to be Web Developer.
+My work as a dancer and choreographer has stretched all over Germany and Europe over the past 5 years.
+Currently I'm a student at SPICED, dancing through the WWW.
+
+
+
 <!--
 **versacrvm/versacrvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
