@@ -6,12 +6,14 @@ Currently I'm a student at SPICED, getting ready to dance through the world wide
 
 ![portrait](portrait.jpeg)
 
-My personal interests include:
+
+##My personal interests include:
 - reading political theory
 - going for walks without my phone
 - travelling to remote places
 - eating sugar
 
+On the weekends you will usually find me [like this](https://giphy.com/embed/FBzqZGthkW6KQ)
 <!--
 **versacrvm/versacrvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
