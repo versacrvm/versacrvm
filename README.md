@@ -6,6 +6,12 @@ Currently I'm a student at SPICED, getting ready to dance through the world wide
 
 
 
+My personal interests include:
+- reading political theory
+- going for walks without my phone
+- travelling to remote places
+- eating sugar
+
 <!--
 **versacrvm/versacrvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
